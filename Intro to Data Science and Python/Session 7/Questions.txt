@@ -1,0 +1,8 @@
+Suppose that during any hour in a large department store, the average number of
+shoppers is 448, with a standard deviation of 21 shoppers. What is the probability
+that a random sample of 49 different shopping hours will yield a sample mean
+between 441 and 446 shoppers?
+
+Suppose 60% of the electrical contractors in a region use a particular brand of wire.
+What is the probability of taking a random sample of size 120 from these electrical contractors
+and finding that .50 or less use that brand of wire?
