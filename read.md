@@ -1,2 +1,8 @@
 Session 1 - Intro to Data science using python (8 Aug 2020)
 Session 2 - Intro to Python - Data Structures (9 Aug 2020)
+Session 3 - Intro to Python - Pandas (15 Aug 2020)
+Session 4 - Intro to Python - Lambda and Control structures (16 Aug 2020)
+Session 5 - Intro to Descriptive Statistics (22 Aug 2020)
+Session 6 - Intro to Probabiility and distributions (23 Aug 2020)
+Session 7 - Intro to Inferential Statistics -  Central Limit Theorem (5 Sept 2020)
+Session 8 - Intro to Inferential Statistics- Hypothesis Testing  (6 Sept 2020)

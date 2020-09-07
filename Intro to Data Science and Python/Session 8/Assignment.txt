@@ -1,0 +1,32 @@
+If 10% of a population of parts is defective, what is the probability of randomly selecting
+80 parts and finding that 12 or more parts are defective?
+
+A survey was taken of U.S. companies that do business with firms in India. One of
+the questions on the survey was: Approximately how many years has your company
+been trading with firms in India? A random sample of 44 responses to this question
+yielded a mean of 10.455 years. Suppose the population standard deviation for this
+question is 7.7 years. Using this information, construct a 90% confidence interval for
+the mean number of years that a company has been trading in India for the population
+of U.S. companies trading with firms in India.
+
+A clothing company produces men’s jeans. The jeans are made and sold with either
+a regular cut or a boot cut. In an effort to estimate the proportion of their men’s jeans
+market in Oklahoma City that prefers boot-cut jeans, the analyst takes a random sample
+of 212 jeans sales from the company’s two Oklahoma City retail outlets. Only 34 of
+the sales were for boot-cut jeans. Construct a 90% confidence interval to estimate the
+proportion of the population in Oklahoma City who prefer boot-cut jeans.
+
+
+Doctors believe that the average teen sleeps on average no longer than 10 hours per day.
+A researcher believes that teens on average sleep longer. Write Null and Alternate Hypothesis.
+
+
+The school board claims that at least 60% of the students bring a phone to school. A teacher believes
+this number is too high and randomly samples 25 students to test at the level of significance of 0.02.
+Write the  Null and Alternate Hypothesis.
+
+
+
+
+
+

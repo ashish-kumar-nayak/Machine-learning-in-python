@@ -1,0 +1,33 @@
+A cellular telephone company is rethinking its pricing structure. Users appear to be 
+spending more time on the phone and are shopping around for the best deals. 
+To do better planning, the cellular company wants to ascertain the average number of 
+minutes of time used per month by each of its residential users but does not have 
+the resources available to examine all monthly bills and extract the information. 
+The company decides to take a sample of customer bills and estimate the population 
+mean from sample data. A researcher for the company takes a random sample of 85 bills 
+for a recent month and from these bills computes a sample mean of 510 minutes. 
+Using this information, construct a 95% confidence interval for the average length
+of a call for the population. Suppose past history and similar studies
+indicate that the population standard deviation is 46 minutes.
+
+Suppose a Ola Cabs wants to estimate the average number of Kilometers traveled per day 
+by each of its cars rented in Bengaluru. A random sample of 20 cars rented in Bengaluru 
+reveals that the sample mean travel distance per day is 85.5 Kilometers, with a population 
+standard deviation of 19.3 Kilometers. Assuming the population is normally distributed,
+Compute a 99% confidence interval to estimate .
+
+
+It is believed that a candy machine makes chocolate bars that are on average 5g. 
+A worker claims that the machine after maintenance no longer makes 5g bars.
+write Ho and Ha
+
+
+A company has stated that their straw machine makes straws that are 4mm in diameter.
+A worker believes the machine no longer makes straws of this size and samples 100 straws
+to perform a hypothesis test with 99% Confidence.
+			
+
+
+
+
+
