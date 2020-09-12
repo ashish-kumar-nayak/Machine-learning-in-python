@@ -1,0 +1,21 @@
+In an attempt to determine why customer service is important to managers in the United Kingdom, 
+researchers surveyed managing directors of manufacturing plants in Scotland.
+One of the reasons proposed was that customer service is a means of retaining customers.
+On a scale from 1 to 5, with 1 being low and 5 being high, the
+survey respondents rated this reason more highly than any of the others, with a mean
+response of 4.30. Suppose U.S. researchers believe American manufacturing managers
+would not rate this reason as highly and conduct a hypothesis test to prove their theory.
+Alpha is set at .05. Based on the data gathered from 32 managers, the sample average of the responses is 4.156. 
+Perform a hypothesis testing to determine whether U.S. managers rate
+this reason significantly lower than the 4.30 mean.
+Assume from previous studies that the population standard deviation is 0.574.
+
+
+Figures released by the U.S. Department of Agriculture show that the average size
+of farms has increased since 1940. In 1940, the mean size of a farm was 174 acres;
+by 1997, the average size was 471 acres. Suppose an agribusiness researcher believes 
+the average size of farms has now increased from the 1997 mean figure of 471 acres. 
+To test this notion, she randomly sampled 23 farms across the United States and 
+ascertained the size of each farm from county records.The resulting sample average is 498.78 acres
+and the sample standard deviation is 46.94 acres. Use a 5% level of significance to test her hypothesis. 
+Assume that number of acres per farm is normally distributed in the population.
