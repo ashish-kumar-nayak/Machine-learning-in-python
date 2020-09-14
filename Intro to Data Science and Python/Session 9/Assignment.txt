@@ -1,7 +1,0 @@
-According to the U.S. Bureau of Labor Statistics, the average weekly earnings of a
-production worker in 1997 were $424.20. Suppose a labor researcher wants to test to
-determine whether this figure is still accurate today. The researcher randomly selects
-54 production workers from across the United States and obtains a representative
-earnings statement for one week from each. The resulting sample average is $432.69.
-Assuming a population standard deviation of $33.90, and a 5% level of significance,
-determine whether the mean weekly earnings of a production worker have changed.

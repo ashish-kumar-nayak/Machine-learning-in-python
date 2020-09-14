@@ -1,0 +1,30 @@
+According to the U.S. Bureau of Labor Statistics, the average weekly earnings of a
+production worker in 1997 were $424.20. Suppose a labor researcher wants to test to
+determine whether this figure is still accurate today. The researcher randomly selects
+54 production workers from across the United States and obtains a representative
+earnings statement for one week from each. The resulting sample average is $432.69.
+Assuming a population standard deviation of $33.90, and a 5% level of significance,
+determine whether the mean weekly earnings of a production worker have changed.
+
+
+A study by Hewitt Associates showed that 79% of companies offer employees flexible
+scheduling. Suppose a researcher believes that in accounting firms this figure is
+lower. The researcher randomly selects 415 accounting firms and through interviews
+determines that 303 of these firms have flexible scheduling.With a 1% level of
+significance, does the test show enough evidence to conclude that a significantly
+lower proportion of accounting firms offer employees flexible scheduling?
+
+
+
+Suppose that in past years the average price per square foot for warehouses in the
+United States has been $32.28. A national real estate investor wants to determine
+whether that figure has changed now. The investor hires a researcher who randomly
+samples 49 warehouses that are for sale across the United States and finds that the
+mean price per square foot is $31.67, with a standard deviation of $1.29. Assume that
+prices of warehouse footage are normally distributed in population. If the researcher
+uses a 5% level of significance, what statistical conclusion can be reached? What are
+the hypotheses?
+
+
+
+
