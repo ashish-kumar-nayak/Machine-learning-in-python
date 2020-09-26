@@ -10,3 +10,4 @@ Session 9 - Intro to Inferential Statistics- Hypothesis Testing - P value method
 Session 10 - Intro to Machine Learning and Linear Algebra  (13 Sept 2020)
 Session 11 - Intro to Supervised Machine Learning - Linear Regression  (19 Sept 2020)
 Session 12 - Intro to Supervised Machine Learning - Linear Regression  (20 Sept 2020)
+Session 13 - Intro to Supervised Machine Learning - Linear Regression in Python  (26 Sept 2020)
