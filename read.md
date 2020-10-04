@@ -12,3 +12,5 @@ Session 11 - Intro to Supervised Machine Learning - Linear Regression  (19 Sept 
 Session 12 - Intro to Supervised Machine Learning - Linear Regression  (20 Sept 2020)
 Session 13 - Intro to Supervised Machine Learning - Linear Regression in Python  (26 Sept 2020)
 Session 14 - Intro to Supervised Machine Learning - Penalised Linear Regression in Python  (27 Sept 2020)
+Session 15 - Intro to Supervised Machine Learning - Logistic Regression (3rd Oct 2020)
+Session 16 - Intro to Supervised Machine Learning - Logistic Regression in Python  (4th Oct 2020)
