@@ -14,3 +14,7 @@ Session 13 - Intro to Supervised Machine Learning - Linear Regression in Python 
 Session 14 - Intro to Supervised Machine Learning - Penalised Linear Regression in Python  (27 Sept 2020)
 Session 15 - Intro to Supervised Machine Learning - Logistic Regression (3rd Oct 2020)
 Session 16 - Intro to Supervised Machine Learning - Logistic Regression in Python  (4th Oct 2020)
+Session 17 - Intro to Supervised Machine Learning - Decision Tree (10th Oct 2020)
+Session 18 - Intro to Supervised Machine Learning - Decision Tree in Python  (11th Oct 2020)
+Session 19 - Intro to Supervised Machine Learning - Ensemble Techniques (17th Oct 2020)
+Session 20 - Intro to Supervised Machine Learning - Ensemble Techniques (18th Oct 2020)
