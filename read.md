@@ -19,3 +19,4 @@ Session 18 - Intro to Supervised Machine Learning - Decision Tree in Python  (11
 Session 19 - Intro to Supervised Machine Learning - Ensemble Techniques (17th Oct 2020)
 Session 20 - Intro to Supervised Machine Learning - Ensemble Techniques (18th Oct 2020)
 Session 21 - Intro to Supervised Machine Learning - K-NN and Naive Bayes (31th Oct 2020)
+Session 22 - Intro to UnSupervised Machine Learning - K-Means and Hierarchical (1st Nov 2020)
