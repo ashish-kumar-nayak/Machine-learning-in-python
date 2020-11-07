@@ -20,3 +20,4 @@ Session 19 - Intro to Supervised Machine Learning - Ensemble Techniques (17th Oc
 Session 20 - Intro to Supervised Machine Learning - Ensemble Techniques (18th Oct 2020)
 Session 21 - Intro to Supervised Machine Learning - K-NN and Naive Bayes (31th Oct 2020)
 Session 22 - Intro to UnSupervised Machine Learning - K-Means and Hierarchical (1st Nov 2020)
+Session 23 - Intro to Supervised Machine Learning - Support Vector Machine (7th Nov 2020)
