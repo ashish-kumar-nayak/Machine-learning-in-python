@@ -24,3 +24,4 @@ Session 23 - Intro to Supervised Machine Learning - Support Vector Machine (7th 
 Session 24 - Intro to UnSupervised Machine Learning - Principal Component Analysis (8th Nov 2020)
 Session 25 - Intro to Natural Language Processing - Text Analytics using Python (21th Nov 2020)
 Session 26 - Intro to Recommendation System- User and Item based Recommendations using Python (22nd Nov 2020)
+Session 27 - Intro to Time Series Forecasting - ARIMA and S-ARIMA using Python (5th Dec 2020)
